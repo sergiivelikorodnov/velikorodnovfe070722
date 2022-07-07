@@ -1,0 +1,12 @@
+@use '../../variables/variables.scss' as *;
+
+.title{
+    padding: 20px;
+}
+
+.randomValue{
+    padding: 10px;
+    margin: 20px;
+    font-family: $family;
+    cursor: pointer;
+}
