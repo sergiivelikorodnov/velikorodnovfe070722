@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { defaultGraphValue } from '../../mock/graph'
 import { getRandomValue } from '../../utils/utils'
 import Chart from '../chart/chart'
-import { ChartsType } from '../types/chartType'
+import { ChartsType } from '../../types/chartType'
 import styles from './app.module.scss'
 
 function App() {
